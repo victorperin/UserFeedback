@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/victorperin/UserFeedback",
   "dependencies": {
+    "ejs": "^2.2.1",
     "express": "^4.11.1"
   }
 }
