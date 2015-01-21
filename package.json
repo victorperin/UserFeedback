@@ -1,0 +1,28 @@
+{
+  "name": "UserFeedback",
+  "version": "0.0.0",
+  "description": "A tool for collecting and prioritize feedback from customers/employers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/victorperin/UserFeedback.git"
+  },
+  "keywords": [
+    "feedback",
+    "userfeedback",
+    "user",
+    "feedback"
+  ],
+  "author": "Victor Perin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorperin/UserFeedback/issues"
+  },
+  "homepage": "https://github.com/victorperin/UserFeedback",
+  "dependencies": {
+    "express": "^4.11.1"
+  }
+}
